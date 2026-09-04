@@ -7,7 +7,7 @@ about:
   head: 6650842
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T19:52:33Z
+  collectedAt: 2026-09-04T20:47:58Z
 timeline:
   created: 2022-02-12
   lastCommit: 2026-08-15
@@ -81,6 +81,29 @@ total:
   openIssue: 1
   commit: 170
 ---
+path: /home/runner/.x-repo/github.com/trzsz/trzsz-go
+collectedAt: 2026-09-04T20:47:58Z
+loc:
+  Go:
+    code: 10283
+    comments: 1129
+    blanks: 1292
+    files: 39
+  Makefile:
+    code: 48
+    comments: 0
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 415
+    blanks: 247
+    files: 2
+total:
+  code: 10331
+  comments: 1544
+  blanks: 1550
+  files: 42
 ---
 date: "2026-08-24"
 repo:
