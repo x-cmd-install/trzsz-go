@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5992654,
       "digest": "sha256:43c20a69750c984c25bcdf4233fa5802f812cd58f7503e2ceae59cf440a6a3eb",
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2026-01-17T12:55:34Z",
       "updated_at": "2026-01-17T12:55:35Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_linux_aarch64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5979650,
       "digest": "sha256:9a73c237b6b12af267e878591ff22a01c97ca9d1cd8125f9ff4ffd6df4fea97c",
-      "download_count": 5485,
+      "download_count": 5489,
       "created_at": "2026-01-17T12:55:34Z",
       "updated_at": "2026-01-17T12:55:35Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_linux_aarch64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6385127,
       "digest": "sha256:e986f0344e6e91ae311adfa2c7c0bf8df5b29b2f11f5123f34ddb20d6a2b50a9",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-01-17T12:55:34Z",
       "updated_at": "2026-01-17T12:55:35Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_linux_armv6.rpm"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6531862,
       "digest": "sha256:9ef81d764dd0bfd585988aafd5b987e0282c79bd377ea3d409a4905194fe5f72",
-      "download_count": 462,
+      "download_count": 464,
       "created_at": "2026-01-17T12:55:34Z",
       "updated_at": "2026-01-17T12:55:35Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_linux_x86_64.deb"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 6716632,
       "digest": "sha256:d6b1aae1c2804f2f44fdd0308c2ea8d1a47f39675e0a29178834abaf910fcec5",
-      "download_count": 6889,
+      "download_count": 6890,
       "created_at": "2026-01-17T12:55:34Z",
       "updated_at": "2026-01-17T12:55:35Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_linux_x86_64.rpm"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 6512961,
       "digest": "sha256:70e3e0847177d4c7b681a8ec19fa00092e422a6c628ef9d8a5db6dfbf4612add",
-      "download_count": 40037,
+      "download_count": 40129,
       "created_at": "2026-01-17T12:55:34Z",
       "updated_at": "2026-01-17T12:55:35Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_linux_x86_64.tar.gz"
