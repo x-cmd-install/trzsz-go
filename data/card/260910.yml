@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: "v0.1.4"
-  collectedAt: 2026-09-10T20:20:49Z
+  collectedAt: 2026-09-10T23:22:43Z
 timeline:
   created: 2022-02-12
   lastCommit: 2026-08-15
@@ -84,7 +84,7 @@ total:
   commit: 170
 ---
 path: /home/runner/.x-repo/github.com/trzsz/trzsz-go
-collectedAt: 2026-09-10T20:20:50Z
+collectedAt: 2026-09-10T23:22:44Z
 loc:
   Go:
     code: 10283
