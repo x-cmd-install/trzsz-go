@@ -14,11 +14,11 @@ x install trzsz-go
 
 ## Code insight
 
-Total: **10,338** lines of code across **42** files in the top 5 languages.
+Total: **10,393** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,290 | 1,129 | 1,295 | 39 |
+| Go | 10,345 | 1,155 | 1,299 | 40 |
 | Makefile | 48 | 0 | 11 | 1 |
 | Markdown | 0 | 415 | 246 | 2 |
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-01-17)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-22
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 1,067 · **Forks**: 57 · **Open issues**: 70 · **Contributors**: 4
+- **Stars**: 1,067 · **Forks**: 58 · **Open issues**: 70 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 3 · **Open PRs**: 1 · **Closed issues**: 68 · **Open issues**: 2 · **Commits**: 172
+- **Releases**: 19 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 68 · **Open issues**: 2 · **Commits**: 173
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 1 | 1 | 2 |
-| last60d | 2026-08-22 | 0 | 0 | 1 | 1 | 1 | 2 |
-| 90d | 2026-07-23 | 0 | 0 | 1 | 2 | 1 | 5 |
-| last180d | 2026-04-24 | 0 | 0 | 1 | 4 | 1 | 7 |
-| 360d | 2025-10-26 | 1 | 0 | 1 | 6 | 2 | 36 |
-| last720d | 2024-10-31 | 1 | 0 | 1 | 16 | 2 | 36 |
+| 30d | 2026-09-22 | 0 | 1 | 0 | 1 | 1 | 3 |
+| last60d | 2026-08-23 | 0 | 1 | 1 | 1 | 1 | 3 |
+| 90d | 2026-07-24 | 0 | 1 | 1 | 2 | 1 | 6 |
+| last180d | 2026-04-25 | 0 | 1 | 1 | 4 | 1 | 8 |
+| 360d | 2025-10-27 | 1 | 1 | 1 | 6 | 2 | 37 |
+| last720d | 2024-11-01 | 1 | 1 | 1 | 16 | 2 | 37 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:44:25Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:39:31Z._
