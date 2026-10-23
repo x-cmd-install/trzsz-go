@@ -24,13 +24,13 @@ Total: **10,393** lines of code across **43** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **SAST** (0/10) — no SAST tool detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,067 · **Forks**: 58 · **Open issues**: 70 · **Contributors**: 5
+- **Stars**: 1,068 · **Forks**: 58 · **Open issues**: 70 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 1 | 1 | 3 |
-| last60d | 2026-08-23 | 0 | 1 | 1 | 1 | 1 | 3 |
-| 90d | 2026-07-24 | 0 | 1 | 1 | 2 | 1 | 6 |
-| last180d | 2026-04-25 | 0 | 1 | 1 | 4 | 1 | 8 |
-| 360d | 2025-10-27 | 1 | 1 | 1 | 6 | 2 | 37 |
-| last720d | 2024-11-01 | 1 | 1 | 1 | 16 | 2 | 37 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 1 | 1 | 3 |
+| last60d | 2026-08-24 | 0 | 1 | 1 | 1 | 1 | 3 |
+| 90d | 2026-07-25 | 0 | 1 | 1 | 2 | 1 | 6 |
+| last180d | 2026-04-26 | 0 | 1 | 1 | 4 | 1 | 8 |
+| 360d | 2025-10-28 | 1 | 1 | 1 | 6 | 2 | 37 |
+| last720d | 2024-11-02 | 1 | 1 | 1 | 16 | 2 | 37 |
 
 ## Release assets
 
@@ -98,6 +98,14 @@ Lowest-scoring checks:
 | [trzsz_1.2.0_windows_i386.zip](https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_windows_i386.zip) | 6.5 MiB | `native/win/x64` |
 | [trzsz_1.2.0_windows_x86_64.zip](https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_windows_x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/trzsz-go). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.2.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trzsz-go` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +115,4 @@ Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:39:31Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:49:19Z._
