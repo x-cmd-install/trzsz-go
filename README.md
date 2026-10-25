@@ -14,13 +14,13 @@ x install trzsz-go
 
 ## Code insight
 
-Total: **10,393** lines of code across **43** files in the top 5 languages.
+Total: **10,519** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,345 | 1,155 | 1,299 | 40 |
+| Go | 10,471 | 1,159 | 1,316 | 40 |
 | Makefile | 48 | 0 | 11 | 1 |
-| Markdown | 0 | 415 | 246 | 2 |
+| Markdown | 0 | 419 | 248 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-01-17)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-24
 - **Assets in release**: 30
 
 ## Popularity
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 68 · **Open issues**: 2 · **Commits**: 173
+- **Releases**: 19 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 68 · **Open issues**: 2 · **Commits**: 175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 1 | 0 | 1 | 1 | 3 |
-| last60d | 2026-08-25 | 0 | 1 | 1 | 1 | 1 | 3 |
-| 90d | 2026-07-26 | 0 | 1 | 1 | 2 | 1 | 6 |
-| last180d | 2026-04-27 | 0 | 1 | 1 | 4 | 1 | 8 |
-| 360d | 2025-10-29 | 1 | 1 | 1 | 6 | 2 | 37 |
-| last720d | 2024-11-03 | 1 | 1 | 1 | 16 | 2 | 37 |
+| 30d | 2026-09-25 | 0 | 1 | 0 | 1 | 1 | 5 |
+| last60d | 2026-08-26 | 0 | 1 | 1 | 1 | 1 | 5 |
+| 90d | 2026-07-27 | 0 | 1 | 1 | 2 | 1 | 8 |
+| last180d | 2026-04-28 | 0 | 1 | 1 | 4 | 1 | 10 |
+| 360d | 2025-10-30 | 1 | 1 | 1 | 6 | 2 | 39 |
+| last720d | 2024-11-04 | 1 | 1 | 1 | 16 | 2 | 39 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:34:51Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:31:32Z._
