@@ -14,11 +14,11 @@ x install trzsz-go
 
 ## Code insight
 
-Total: **10,519** lines of code across **43** files in the top 5 languages.
+Total: **10,520** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,471 | 1,159 | 1,316 | 40 |
+| Go | 10,472 | 1,159 | 1,316 | 40 |
 | Makefile | 48 | 0 | 11 | 1 |
 | Markdown | 0 | 419 | 248 | 2 |
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-01-17)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-21
 - **Assets in release**: 30
 
 ## Popularity
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 68 · **Open issues**: 2 · **Commits**: 175
+- **Releases**: 19 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 68 · **Open issues**: 2 · **Commits**: 177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-21 | 0 | 1 | 0 | 1 | 1 | 5 |
-| 90d | 2026-08-22 | 0 | 1 | 1 | 1 | 1 | 5 |
-| last180d | 2026-05-24 | 0 | 1 | 1 | 4 | 1 | 8 |
-| 360d | 2025-11-25 | 1 | 1 | 1 | 6 | 2 | 26 |
-| last720d | 2024-11-30 | 1 | 1 | 1 | 16 | 2 | 39 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-22 | 0 | 1 | 0 | 1 | 1 | 7 |
+| 90d | 2026-08-23 | 0 | 1 | 1 | 1 | 1 | 7 |
+| last180d | 2026-05-25 | 0 | 1 | 1 | 4 | 1 | 10 |
+| 360d | 2025-11-26 | 1 | 1 | 1 | 6 | 2 | 28 |
+| last720d | 2024-12-01 | 1 | 1 | 1 | 16 | 2 | 41 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:22:53Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:53:29Z._
