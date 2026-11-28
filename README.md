@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-28 | 0 | 1 | 0 | 1 | 1 | 7 |
-| 90d | 2026-08-29 | 0 | 1 | 1 | 1 | 1 | 7 |
-| last180d | 2026-05-31 | 0 | 1 | 1 | 4 | 1 | 10 |
-| 360d | 2025-12-02 | 1 | 1 | 1 | 6 | 2 | 26 |
-| last720d | 2024-12-07 | 1 | 1 | 1 | 14 | 2 | 41 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-29 | 0 | 1 | 0 | 1 | 1 | 7 |
+| 90d | 2026-08-30 | 0 | 1 | 1 | 1 | 1 | 7 |
+| last180d | 2026-06-01 | 0 | 1 | 1 | 4 | 1 | 10 |
+| 360d | 2025-12-03 | 1 | 1 | 1 | 6 | 2 | 26 |
+| last720d | 2024-12-08 | 1 | 1 | 1 | 14 | 2 | 41 |
 
 ## Release assets
 
@@ -98,14 +98,6 @@ Lowest-scoring checks:
 | [trzsz_1.2.0_windows_i386.zip](https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_windows_i386.zip) | 6.5 MiB | `native/win/x64` |
 | [trzsz_1.2.0_windows_x86_64.zip](https://github.com/trzsz/trzsz-go/releases/download/v1.2.0/trzsz_1.2.0_windows_x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/trzsz-go). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.2.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trzsz-go` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -115,4 +107,4 @@ Install metadata for trzsz-go lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:53:17Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:56:59Z._
